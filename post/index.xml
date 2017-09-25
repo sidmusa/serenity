@@ -30,5 +30,16 @@
       <description>Hello, this is a great site. I&amp;rsquo;m learning a lot these days.</description>
     </item>
     
+    <item>
+      <title>title</title>
+      <link>https://learnmonk.netlify.com/post/title/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learnmonk.netlify.com/post/title/</guid>
+      <description>How to be successful in Nofap
+Don&amp;rsquo;t peek even at images of instagram or youtube videos.
+Don&amp;rsquo;t even think about Peeking, edging, PMOing.</description>
+    </item>
+    
   </channel>
 </rss>
